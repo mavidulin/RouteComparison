@@ -1,6 +1,6 @@
 # RouteComparison
 
-This project is done as a part of master thesis. 
+This project is done as a part of a master thesis. 
 
 The purpose of the program is to compare routes (shortest paths) returned from Google and Mapquest services and from locally stored OSM data by using Pgrouting.
 

@@ -1,0 +1,11 @@
+This folder contains:
+- main.py --> Main python script.
+- google_polyline_decoder.py --> script for decoding google polyline into a more suitable format.
+- google.py --> script for fetching a route from Google.
+- mapquest.py --> script for fetching a route from Mapquest.
+- pgrouting.py --> script for getting the route from local OSM data using Pgrouting.
+- utility.py --> utility functions.
+- routes_processor.py --> script for processing routes.
+- locations.txt --> file with locations for routing (from-to location pairs).
+- osmrestrictions2pgrouting.py --> script for adding OSM road restrictions data to database.
+- config.txt --> file with database information and api keys.

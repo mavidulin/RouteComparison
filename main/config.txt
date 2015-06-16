@@ -1,0 +1,11 @@
+{
+    "database": {
+        "name": "",
+        "user": "",
+        "password": "",
+        "host": ""
+    },
+    "mapquest_api_key": "",
+    "google_api_key": "",
+    "osm_source_filename": ""
+}
